@@ -38,3 +38,5 @@ __pycache__
 monkeytype.sqlite3
 # meson editable install folder
 .mesonpy
+
+**/venv/

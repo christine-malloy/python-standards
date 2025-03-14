@@ -4,6 +4,12 @@ Collection of community driven standards for structuring projects and code.
 
 ## Usage
 
+Start virtual environment
+```sh
+python3 -m venv venv
+source venv/bin/activate
+```
+
 Install packages
 
 ```sh
@@ -18,6 +24,11 @@ hello_world
 Run webserver:
 ```sh
 webserver
+```
+
+Run tests:
+```sh
+pytest
 ```
 
 ## References
